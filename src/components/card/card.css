@@ -1,0 +1,13 @@
+.tagline{
+    display: inline-block;
+    width: 13em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.card-top{
+    width: 15em;
+    min-height: 32em;
+}
